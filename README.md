@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## My CV
-
-[![CV](https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=CV&theme=indian-flag)](https://humble-barnacle001.github.io/CV)
-
 ## 🌱 I’m currently learning ... 
 
 [![Top Langs](https://github-stats-barnacle.vercel.app/api/top-langs/?username=humble-barnacle001&langs_count=10&layout=compact&theme=dark&exclude_repo=udemy-basic-html-brad)](https://github-stats-barnacle.vercel.app)
@@ -39,6 +35,10 @@
 ## Stats
 
 [![Rwitick's GitHub stats](https://github-stats-barnacle.vercel.app/api?username=humble-barnacle001&count_private=true&show_icons=true&bg_color=30,1352ff,904e95&icon_color=ef2&title_color=fff&text_color=fff)](https://github-stats-barnacle.vercel.app)
+
+## My CV
+
+[![CV](https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=CV&theme=indian-flag)](https://humble-barnacle001.github.io/CV)
 
 
 <!--
