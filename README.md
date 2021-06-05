@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Rwitick's GitHub stats](https://github-stats-barnacle.vercel.app/api?username=humble-barnacle001&count_private=true&show_icons=true&theme=calm)](https://github-stats-barnacle.vercel.app)
+
+
 <!--
 **humble-barnacle001/humble-barnacle001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
