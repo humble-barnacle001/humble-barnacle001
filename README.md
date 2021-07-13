@@ -10,8 +10,8 @@
   <a href="https://webapp-weather.netlify.app/">
   <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=webapp-weather&theme=calm" />
   </a>
-  <a href="https://github-details-fetch-basic.netlify.app/">
-    <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=github-user-fetch&theme=calm" />
+  <a href="https://svg-avatarify.vercel.app/">
+    <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=svg-avatarify&theme=calm" />
   </a>
 </p>
 <p>
