@@ -23,8 +23,8 @@
   </a>
 </p>
 <p>
-  <a href="https://github-stats-barnacle.vercel.app">
-  <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=github-readme-stats&theme=calm" />
+  <a href="https://assignment-tracker.vercel.app/">
+  <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=assignment-monitor&theme=calm" />
   </a>
   <a href="https://humble-barnacle001.github.io/uml-app">
     <img align="center" src="https://github-stats-barnacle.vercel.app/api/pin/?username=humble-barnacle001&repo=uml-app&theme=calm" />
