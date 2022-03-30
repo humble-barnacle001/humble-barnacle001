@@ -34,6 +34,8 @@
 
 ## Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=humble-barnacle001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Rwitick's GitHub stats](https://github-stats-barnacle.vercel.app/api?username=humble-barnacle001&count_private=true&show_icons=true&bg_color=30,1352ff,904e95&icon_color=ef2&title_color=fff&text_color=fff)](https://github-stats-barnacle.vercel.app)
 
 ## My CV
